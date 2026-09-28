@@ -1,14 +1,13 @@
 ---
 import { t } from '../i18n';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const links = ['features', 'pricing', 'compare', 'contact'];
 const langs = [['cs', 'CS'], ['vn', 'VN'], ['en', 'EN']];
 ---
 <header class="sticky top-0 z-50 border-b border-white/10 bg-slate-900/80 backdrop-blur">
   <div class="mx-auto flex h-16 max-w-6xl items-center justify-between gap-4 px-5">
-    <a href="#top" class="flex items-center gap-2 font-display text-lg font-bold text-white">
-      <span class="grid h-8 w-8 place-items-center rounded-lg bg-gradient-to-br from-neon to-indigo-500 shadow-neon">
-        <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><rect x="4" y="8" width="16" height="11" rx="4"/><path d="M12 8V4M9 13.5h.01M15 13.5h.01"/></svg>
-      </span>
+    <a href="#top" class="flex items-center gap-2.5 font-display text-lg font-bold text-white">
+      <img src={`${base}/logo-header.jpg`} alt="HelpoBot247" width="40" height="40" class="h-10 w-10 rounded-xl object-cover ring-1 ring-white/20" />
       <span>Helpo<span class="grad">Bot247</span></span>
     </a>
 
