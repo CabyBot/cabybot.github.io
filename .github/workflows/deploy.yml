@@ -18,9 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: withastro/action@v3   # tự cài dependencies + astro build -> dist/
+      - uses: withastro/action@v3
         with:
           node-version: 20
+          package-manager: npm
   deploy:
     needs: build
     runs-on: ubuntu-latest
