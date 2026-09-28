@@ -4,7 +4,7 @@ export const company = {
   legalName: 'CabyBot',
   ico: '00000000',
   email: 'info@cabybot.cz',
-  formAction: 'https://formspree.io/f/YOUR_FORM_ID',
+  formAction: 'https://formspree.io/f/mdekyone',
   privacyUrl: '#',
 };
 
