@@ -1,0 +1,60 @@
+{
+  "meta": { "title": "HelpoBot247 – AI Chatbot 24/7 cho doanh nghiệp", "description": "AI chatbot bán hàng, trả lời khách và thu thập liên hệ 24/7 bằng 3 ngôn ngữ. Tích hợp Web, Facebook, Instagram." },
+  "nav": { "features": "Tính năng", "pricing": "Bảng giá", "compare": "So sánh", "contact": "Liên hệ" },
+  "hero": {
+    "badge": "Trợ lý AI cho doanh nghiệp · 24/7",
+    "title": "AI Chatbot <span class=\"grad\">bán hàng thay bạn</span> 24/7",
+    "subtitle": "HelpoBot247 trả lời khách hàng, thu thập số điện thoại và đặt lịch hẹn – bằng tiếng Séc, tiếng Việt và tiếng Anh. Không tăng ca, không nghỉ phép.",
+    "cta1": "Dùng thử Demo",
+    "cta2": "Tôi muốn có AI",
+    "note": "Triển khai trong 7 ngày · Không ràng buộc"
+  },
+  "features": {
+    "title": "Vì sao chọn HelpoBot247",
+    "subtitle": "Bốn lý do để chatbot mang về nhiều hơn chi phí bạn bỏ ra.",
+    "items": [
+      { "title": "Bán hàng 24/7", "text": "Không bao giờ ngủ. Trả lời ngay cả ban đêm và ngày lễ, biến khách truy cập thành khách hàng." },
+      { "title": "Đa ngôn ngữ", "text": "Giao tiếp trôi chảy bằng tiếng Séc, Việt và Anh – khách hàng dùng ngôn ngữ họ thấy thoải mái." },
+      { "title": "Tích hợp Web, Facebook, Instagram", "text": "Một chatbot cho website, Messenger và Instagram. Mọi cuộc trò chuyện ở cùng một nơi." },
+      { "title": "Tự động thu thập SĐT và lịch hẹn", "text": "Tự lấy tên, số điện thoại, email và đặt lịch thẳng vào lịch làm việc của bạn." }
+    ]
+  },
+  "pricing": {
+    "title": "Bảng giá",
+    "subtitle": "Giá tính bằng CZK mỗi tháng, chưa gồm VAT. Chọn số ngôn ngữ cho chatbot.",
+    "l1": "1 ngôn ngữ", "l2": "2 ngôn ngữ", "l3": "3 ngôn ngữ",
+    "month": "/ tháng", "popular": "Phổ biến nhất", "cta": "Đăng ký",
+    "plans": [
+      { "name": "BASIC", "desc": "Khởi đầu cho doanh nghiệp nhỏ", "features": ["1 kênh (website)", "500 hội thoại / tháng", "Thu thập tên và SĐT", "Hỗ trợ qua email"] },
+      { "name": "PRO", "desc": "Cho doanh nghiệp đang tăng trưởng", "features": ["Web + Facebook + Instagram", "2.000 hội thoại / tháng", "Đặt lịch hẹn vào lịch", "Hỗ trợ ưu tiên"] },
+      { "name": "VIP", "desc": "Tối đa, không giới hạn", "features": ["Mọi kênh + API", "10.000 hội thoại / tháng", "Huấn luyện theo dữ liệu công ty", "Quản lý tài khoản riêng"] }
+    ]
+  },
+  "compare": {
+    "title": "Thuê nhân viên vs. HelpoBot247",
+    "subtitle": "Chăm sóc khách hàng đang tốn bao nhiêu của bạn?",
+    "criteria": "Tiêu chí", "human": "Thuê nhân viên", "bot": "HelpoBot247",
+    "rows": [
+      { "label": "Chi phí hàng tháng", "human": "25.000 CZK", "bot": "1.500 – 5.500 CZK" },
+      { "label": "Thời gian hoạt động", "human": "8 giờ/ngày, 5 ngày/tuần", "bot": "24 giờ/ngày, 7 ngày/tuần" },
+      { "label": "Ngôn ngữ", "human": "Thường 1–2", "bot": "Tới 3 cùng lúc" },
+      { "label": "Nghỉ phép và ốm đau", "human": "Có", "bot": "Không bao giờ" },
+      { "label": "Đào tạo", "human": "Vài tuần đến vài tháng", "bot": "Trong 7 ngày" }
+    ],
+    "saving": "Tiết kiệm tới 23.500 CZK mỗi tháng"
+  },
+  "contact": {
+    "title": "Tôi muốn có AI cho doanh nghiệp",
+    "subtitle": "Để lại thông tin, chúng tôi sẽ liên hệ trong 24 giờ kèm bản demo theo nhu cầu.",
+    "name": "Họ và tên", "phone": "Số điện thoại", "email": "Email",
+    "gdpr": "Tôi đồng ý cho xử lý dữ liệu cá nhân theo GDPR.",
+    "submit": "Gửi yêu cầu"
+  },
+  "footer": {
+    "tagline": "AI chatbot cho doanh nghiệp, không bao giờ ngủ.",
+    "ico": "IČO (Mã số DN)",
+    "gdpr": "Dữ liệu cá nhân được xử lý theo GDPR (Quy định EU 2016/679) chỉ nhằm phản hồi yêu cầu của bạn. Bạn có thể rút lại sự đồng ý bất cứ lúc nào.",
+    "privacy": "Chính sách bảo mật",
+    "rights": "Bảo lưu mọi quyền."
+  }
+}

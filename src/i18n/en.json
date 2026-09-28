@@ -1,0 +1,60 @@
+{
+  "meta": { "title": "HelpoBot247 – AI chatbot 24/7 for your business", "description": "An AI chatbot that sells, answers customers and collects leads 24/7 in 3 languages. Works on Web, Facebook and Instagram." },
+  "nav": { "features": "Features", "pricing": "Pricing", "compare": "Comparison", "contact": "Contact" },
+  "hero": {
+    "badge": "AI assistant for business · 24/7",
+    "title": "The AI Chatbot that <span class=\"grad\">sells for you</span> 24/7",
+    "subtitle": "HelpoBot247 answers customers, collects phone numbers and books appointments – in Czech, Vietnamese and English. No overtime, no holidays.",
+    "cta1": "Try the Demo",
+    "cta2": "I want AI",
+    "note": "Live within 7 days · No lock-in"
+  },
+  "features": {
+    "title": "Why HelpoBot247",
+    "subtitle": "Four reasons a chatbot earns more than it costs.",
+    "items": [
+      { "title": "Sales 24/7", "text": "It never sleeps. Replies instantly at night and on holidays, turning visitors into customers." },
+      { "title": "Multilingual", "text": "Speaks fluent Czech, Vietnamese and English – customers use the language they prefer." },
+      { "title": "Web, Facebook and Instagram", "text": "One chatbot across your website, Messenger and Instagram. Every conversation in one place." },
+      { "title": "Automatic lead and booking capture", "text": "Collects names, phone numbers, emails and bookings straight into your calendar." }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Prices in CZK per month, excl. VAT. Choose how many languages your chatbot speaks.",
+    "l1": "1 language", "l2": "2 languages", "l3": "3 languages",
+    "month": "/ month", "popular": "Most popular", "cta": "Get started",
+    "plans": [
+      { "name": "BASIC", "desc": "A start for small businesses", "features": ["1 channel (website)", "500 conversations / month", "Name and phone capture", "Email support"] },
+      { "name": "PRO", "desc": "For growing businesses", "features": ["Web + Facebook + Instagram", "2,000 conversations / month", "Calendar appointment booking", "Priority support"] },
+      { "name": "VIP", "desc": "Maximum, no limits", "features": ["All channels + API", "10,000 conversations / month", "Trained on your company data", "Dedicated account manager"] }
+    ]
+  },
+  "compare": {
+    "title": "Hiring staff vs. HelpoBot247",
+    "subtitle": "What does customer support really cost you?",
+    "criteria": "Criteria", "human": "Hiring staff", "bot": "HelpoBot247",
+    "rows": [
+      { "label": "Monthly cost", "human": "25,000 CZK", "bot": "1,500 – 5,500 CZK" },
+      { "label": "Availability", "human": "8 h/day, 5 days/week", "bot": "24 h/day, 7 days/week" },
+      { "label": "Languages", "human": "Usually 1–2", "bot": "Up to 3 at once" },
+      { "label": "Holidays and sick leave", "human": "Yes", "bot": "Never" },
+      { "label": "Onboarding", "human": "Weeks to months", "bot": "Within 7 days" }
+    ],
+    "saving": "Save up to 23,500 CZK every month"
+  },
+  "contact": {
+    "title": "I want AI for my business",
+    "subtitle": "Leave your details and we will reply within 24 hours with a tailored demo.",
+    "name": "Name", "phone": "Phone", "email": "Email",
+    "gdpr": "I agree to the processing of my personal data under GDPR.",
+    "submit": "Send request"
+  },
+  "footer": {
+    "tagline": "The AI chatbot for business that never sleeps.",
+    "ico": "Company ID (IČO)",
+    "gdpr": "We process personal data in line with GDPR (EU Regulation 2016/679) solely to answer your enquiry. You may withdraw consent at any time.",
+    "privacy": "Privacy policy",
+    "rights": "All rights reserved."
+  }
+}
