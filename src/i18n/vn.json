@@ -1,16 +1,16 @@
 {
-  "meta": { "title": "HelpoBot247 – AI Chatbot 24/7 cho doanh nghiệp", "description": "AI chatbot bán hàng, trả lời khách và thu thập liên hệ 24/7 bằng 3 ngôn ngữ. Tích hợp Web, Facebook, Instagram." },
+  "meta": { "title": "CabyBot – AI Chatbot 24/7 cho doanh nghiệp", "description": "AI chatbot bán hàng, trả lời khách và thu thập liên hệ 24/7 bằng 3 ngôn ngữ. Tích hợp Web, Facebook, Instagram." },
   "nav": { "features": "Tính năng", "pricing": "Bảng giá", "compare": "So sánh", "contact": "Liên hệ" },
   "hero": {
     "badge": "Trợ lý AI cho doanh nghiệp · 24/7",
     "title": "AI Chatbot <span class=\"grad\">bán hàng thay bạn</span> 24/7",
-    "subtitle": "HelpoBot247 trả lời khách hàng, thu thập số điện thoại và đặt lịch hẹn – bằng tiếng Séc, tiếng Việt và tiếng Anh. Không tăng ca, không nghỉ phép.",
+    "subtitle": "CabyBot trả lời khách hàng, thu thập số điện thoại và đặt lịch hẹn – bằng tiếng Séc, tiếng Việt và tiếng Anh. Không tăng ca, không nghỉ phép.",
     "cta1": "Dùng thử Demo",
     "cta2": "Tôi muốn có AI",
     "note": "Triển khai trong 7 ngày · Không ràng buộc"
   },
   "features": {
-    "title": "Vì sao chọn HelpoBot247",
+    "title": "Vì sao chọn CabyBot",
     "subtitle": "Bốn lý do để chatbot mang về nhiều hơn chi phí bạn bỏ ra.",
     "items": [
       { "title": "Bán hàng 24/7", "text": "Không bao giờ ngủ. Trả lời ngay cả ban đêm và ngày lễ, biến khách truy cập thành khách hàng." },
@@ -31,9 +31,9 @@
     ]
   },
   "compare": {
-    "title": "Thuê nhân viên vs. HelpoBot247",
+    "title": "Thuê nhân viên vs. CabyBot",
     "subtitle": "Chăm sóc khách hàng đang tốn bao nhiêu của bạn?",
-    "criteria": "Tiêu chí", "human": "Thuê nhân viên", "bot": "HelpoBot247",
+    "criteria": "Tiêu chí", "human": "Thuê nhân viên", "bot": "CabyBot",
     "rows": [
       { "label": "Chi phí hàng tháng", "human": "25.000 CZK", "bot": "1.500 – 5.500 CZK" },
       { "label": "Thời gian hoạt động", "human": "8 giờ/ngày, 5 ngày/tuần", "bot": "24 giờ/ngày, 7 ngày/tuần" },

@@ -1,16 +1,16 @@
 {
-  "meta": { "title": "HelpoBot247 – AI chatbot 24/7 pro váš byznys", "description": "AI chatbot, který prodává, odpovídá zákazníkům a sbírá kontakty 24/7 ve 3 jazycích. Web, Facebook i Instagram." },
+  "meta": { "title": "CabyBot – AI chatbot 24/7 pro váš byznys", "description": "AI chatbot, který prodává, odpovídá zákazníkům a sbírá kontakty 24/7 ve 3 jazycích. Web, Facebook i Instagram." },
   "nav": { "features": "Funkce", "pricing": "Ceník", "compare": "Srovnání", "contact": "Kontakt" },
   "hero": {
     "badge": "AI asistent pro firmy · 24/7",
     "title": "AI Chatbot, který <span class=\"grad\">prodává za vás</span> 24/7",
-    "subtitle": "HelpoBot247 odpovídá zákazníkům, sbírá telefonní čísla a domlouvá schůzky – česky, vietnamsky i anglicky. Bez přesčasů a bez dovolené.",
+    "subtitle": "CabyBot odpovídá zákazníkům, sbírá telefonní čísla a domlouvá schůzky – česky, vietnamsky i anglicky. Bez přesčasů a bez dovolené.",
     "cta1": "Vyzkoušet Demo",
     "cta2": "Chci AI",
     "note": "Nasazení do 7 dnů · Bez závazků"
   },
   "features": {
-    "title": "Proč HelpoBot247",
+    "title": "Proč CabyBot",
     "subtitle": "Čtyři důvody, proč vám chatbot vydělá víc, než stojí.",
     "items": [
       { "title": "Prodej 24/7", "text": "Nikdy nespí. Odpovídá okamžitě ve dne, v noci i o svátcích a mění návštěvníky na zákazníky." },
@@ -31,9 +31,9 @@
     ]
   },
   "compare": {
-    "title": "Zaměstnanec vs. HelpoBot247",
+    "title": "Zaměstnanec vs. CabyBot",
     "subtitle": "Kolik vás stojí zákaznická podpora?",
-    "criteria": "Kritérium", "human": "Zaměstnanec", "bot": "HelpoBot247",
+    "criteria": "Kritérium", "human": "Zaměstnanec", "bot": "CabyBot",
     "rows": [
       { "label": "Měsíční náklady", "human": "25 000 Kč", "bot": "1 500 – 5 500 Kč" },
       { "label": "Dostupnost", "human": "8 hodin denně, 5 dní v týdnu", "bot": "24 hodin denně, 7 dní v týdnu" },

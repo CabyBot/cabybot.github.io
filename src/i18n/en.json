@@ -1,16 +1,16 @@
 {
-  "meta": { "title": "HelpoBot247 – AI chatbot 24/7 for your business", "description": "An AI chatbot that sells, answers customers and collects leads 24/7 in 3 languages. Works on Web, Facebook and Instagram." },
+  "meta": { "title": "CabyBot – AI chatbot 24/7 for your business", "description": "An AI chatbot that sells, answers customers and collects leads 24/7 in 3 languages. Works on Web, Facebook and Instagram." },
   "nav": { "features": "Features", "pricing": "Pricing", "compare": "Comparison", "contact": "Contact" },
   "hero": {
     "badge": "AI assistant for business · 24/7",
     "title": "The AI Chatbot that <span class=\"grad\">sells for you</span> 24/7",
-    "subtitle": "HelpoBot247 answers customers, collects phone numbers and books appointments – in Czech, Vietnamese and English. No overtime, no holidays.",
+    "subtitle": "CabyBot answers customers, collects phone numbers and books appointments – in Czech, Vietnamese and English. No overtime, no holidays.",
     "cta1": "Try the Demo",
     "cta2": "I want AI",
     "note": "Live within 7 days · No lock-in"
   },
   "features": {
-    "title": "Why HelpoBot247",
+    "title": "Why CabyBot",
     "subtitle": "Four reasons a chatbot earns more than it costs.",
     "items": [
       { "title": "Sales 24/7", "text": "It never sleeps. Replies instantly at night and on holidays, turning visitors into customers." },
@@ -31,9 +31,9 @@
     ]
   },
   "compare": {
-    "title": "Hiring staff vs. HelpoBot247",
+    "title": "Hiring staff vs. CabyBot",
     "subtitle": "What does customer support really cost you?",
-    "criteria": "Criteria", "human": "Hiring staff", "bot": "HelpoBot247",
+    "criteria": "Criteria", "human": "Hiring staff", "bot": "CabyBot",
     "rows": [
       { "label": "Monthly cost", "human": "25,000 CZK", "bot": "1,500 – 5,500 CZK" },
       { "label": "Availability", "human": "8 h/day, 5 days/week", "bot": "24 h/day, 7 days/week" },
