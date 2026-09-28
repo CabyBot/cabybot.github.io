@@ -3,7 +3,7 @@ export const company = {
   name: 'CabyBot',
   legalName: 'Tên pháp nhân / OSVČ của bạn',
   ico: '00000000', // ⚠️ điền IČO thật
-  email: 'info@helpobot247.cz',
+  email: 'info@cabybot.cz',
   formAction: 'https://formspree.io/f/YOUR_FORM_ID', // ⚠️ tạo form miễn phí tại formspree.io
   privacyUrl: '#',
 };
