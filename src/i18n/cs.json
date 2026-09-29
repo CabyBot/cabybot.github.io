@@ -1,10 +1,18 @@
 {
-  "meta": { "title": "CabyBot – AI chatbot 24/7 pro váš byznys", "description": "AI chatbot, který prodává, odpovídá zákazníkům a sbírá kontakty 24/7 ve 3 jazycích. Web, Facebook i Instagram." },
-  "nav": { "features": "Funkce", "pricing": "Ceník", "compare": "Srovnání", "contact": "Kontakt" },
+  "meta": {
+    "title": "CabyBot – AI chatbot 24/7 pro váš byznys",
+    "description": "AI chatbot, který prodává, odpovídá zákazníkům a sbírá kontakty 24/7 ve více jazycích. Integrace Web, Facebook, Instagram a WhatsApp."
+  },
+  "nav": {
+    "features": "Funkce",
+    "pricing": "Ceník",
+    "compare": "Srovnání",
+    "contact": "Kontakt"
+  },
   "hero": {
     "badge": "AI asistent pro firmy · 24/7",
     "title": "AI Chatbot, který <span class=\"grad\">prodává za vás</span> 24/7",
-    "subtitle": "CabyBot odpovídá zákazníkům, sbírá telefonní čísla a domlouvá schůzky – česky, vietnamsky i anglicky. Bez přesčasů a bez dovolené.",
+    "subtitle": "CabyBot odpovídá zákazníkům ve více jazycích, sbírá telefonní čísla a sjednává schůzky. Bez přesčasů a bez dovolené.",
     "cta1": "Vyzkoušet Demo",
     "cta2": "Chci AI",
     "note": "Nasazení do 7 dnů · Bez závazků"
@@ -13,40 +21,109 @@
     "title": "Proč CabyBot",
     "subtitle": "Čtyři důvody, proč vám chatbot vydělá víc, než stojí.",
     "items": [
-      { "title": "Prodej 24/7", "text": "Nikdy nespí. Odpovídá okamžitě ve dne, v noci i o svátcích a mění návštěvníky na zákazníky." },
-      { "title": "Vícejazyčnost", "text": "Komunikuje plynule česky, vietnamsky a anglicky – zákazník mluví jazykem, který mu vyhovuje." },
-      { "title": "Web, Facebook a Instagram", "text": "Jeden chatbot na webu, Messengeru i Instagramu. Všechny konverzace na jednom místě." },
-      { "title": "Sběr kontaktů a termínů", "text": "Automaticky získává jména, telefony, e-maily a rezervace přímo do vašeho kalendáře." }
+      {
+        "title": "Prodej 24/7",
+        "text": "Nikdy nespí. Odpovídá okamžitě ve dne, v noci i o svátcích a mění návštěvníky na zákazníky."
+      },
+      {
+        "title": "Vícejazyčnost",
+        "text": "Plynule hovoří několika jazyky – zákazníci si sami zvolí jazyk, který jim vyhovuje."
+      },
+      {
+        "title": "Web, Facebook, Instagram a WhatsApp",
+        "text": "Jeden chatbot na webu, Messengeru, Instagramu i WhatsAppu. Všechny konverzace na jednom místě."
+      },
+      {
+        "title": "Sběr kontaktů a termínů",
+        "text": "Automaticky získává jména, telefony, e-maily a rezervace přímo do vašeho kalendáře."
+      }
     ]
   },
   "pricing": {
     "title": "Ceník",
-    "subtitle": "Ceny v CZK za měsíc, bez DPH. Vyberte počet jazyků chatbota.",
-    "l1": "1 jazyk", "l2": "2 jazyky", "l3": "3 jazyky",
-    "month": "/ měsíc", "popular": "Nejoblíbenější", "cta": "Objednat",
+    "subtitle": "Ceny v CZK za měsíc. Vyberte počet jazyků chatbota.",
+    "l1": "1 jazyk",
+    "l2": "2 jazyky",
+    "l3": "3 jazyky",
+    "month": "/ měsíc",
+    "popular": "Nejoblíbenější",
+    "cta": "Objednat",
     "plans": [
-      { "name": "BASIC", "desc": "Start pro malé firmy", "features": ["1 kanál (web)", "500 konverzací / měsíc", "Sběr jména a telefonu", "Podpora e-mailem"] },
-      { "name": "PRO", "desc": "Pro rostoucí byznys", "features": ["Web + Facebook + Instagram", "2 000 konverzací / měsíc", "Rezervace termínů do kalendáře", "Prioritní podpora"] },
-      { "name": "VIP", "desc": "Maximum bez limitů", "features": ["Všechny kanály + API", "10 000 konverzací / měsíc", "Trénink na datech vaší firmy", "Osobní správce účtu"] }
-    ]
+      {
+        "name": "BASIC",
+        "desc": "Start pro malé firmy",
+        "features": [
+          "1 kanál",
+          "1 000 konverzací / měsíc",
+          "Sběr jména a telefonu",
+          "Podpora e-mailem"
+        ]
+      },
+      {
+        "name": "PRO",
+        "desc": "Pro rostoucí byznys",
+        "features": [
+          "3 kanály",
+          "3 000 konverzací / měsíc",
+          "Rezervace termínů do kalendáře",
+          "Prioritní podpora"
+        ]
+      },
+      {
+        "name": "VIP",
+        "desc": "Maximum bez limitů",
+        "features": [
+          "Všechny kanály",
+          "Neomezeně konverzací / měsíc",
+          "Trénink na datech vaší firmy + automatizace procesů",
+          "Osobní správce účtu"
+        ]
+      }
+    ],
+    "setup": "Jednorázové zřízení",
+    "customNote": "Potřebujete více než 3 jazyky? Kontaktujte nás pro individuální nabídku."
   },
   "compare": {
     "title": "Zaměstnanec vs. CabyBot",
     "subtitle": "Kolik vás stojí zákaznická podpora?",
-    "criteria": "Kritérium", "human": "Zaměstnanec", "bot": "CabyBot",
+    "criteria": "Kritérium",
+    "human": "Zaměstnanec",
+    "bot": "CabyBot",
     "rows": [
-      { "label": "Měsíční náklady", "human": "25 000 Kč", "bot": "1 500 – 5 500 Kč" },
-      { "label": "Dostupnost", "human": "8 hodin denně, 5 dní v týdnu", "bot": "24 hodin denně, 7 dní v týdnu" },
-      { "label": "Jazyky", "human": "Obvykle 1–2", "bot": "Až 3 současně" },
-      { "label": "Dovolená a nemoc", "human": "Ano", "bot": "Nikdy" },
-      { "label": "Zaučení", "human": "Týdny až měsíce", "bot": "Do 7 dnů" }
+      {
+        "label": "Měsíční náklady",
+        "human": "30 000 Kč",
+        "bot": "1 500 – 7 000 Kč"
+      },
+      {
+        "label": "Dostupnost",
+        "human": "8 hodin denně, 5 dní v týdnu",
+        "bot": "24 hodin denně, 7 dní v týdnu"
+      },
+      {
+        "label": "Jazyky",
+        "human": "Obvykle 1–2",
+        "bot": "Podle potřeby, i více jazyků"
+      },
+      {
+        "label": "Dovolená a nemoc",
+        "human": "Ano",
+        "bot": "Nikdy"
+      },
+      {
+        "label": "Zaučení",
+        "human": "Týdny až měsíce",
+        "bot": "Do 7 dnů"
+      }
     ],
-    "saving": "Ušetříte až 23 500 Kč měsíčně"
+    "saving": "Ušetříte až 28 500 Kč měsíčně"
   },
   "contact": {
     "title": "Chci AI pro svůj byznys",
     "subtitle": "Zanechte kontakt a do 24 hodin se vám ozveme s ukázkou na míru.",
-    "name": "Jméno", "phone": "Telefon", "email": "E-mail",
+    "name": "Jméno",
+    "phone": "Telefon",
+    "email": "E-mail",
     "gdpr": "Souhlasím se zpracováním osobních údajů dle GDPR.",
     "submit": "Odeslat poptávku"
   },
