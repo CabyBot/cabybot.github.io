@@ -11,7 +11,7 @@ export const company = {
 // Giá CZK / tháng theo số ngôn ngữ [1, 2, 3]
 export const prices = {
   basic: [1500, 2000, 2500],
-  pro: [3000, 3500, 4000],
+  pro: [3000, 3600, 4200],
   vip: [5000, 6000, 7000],
 };
 
