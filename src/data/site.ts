@@ -12,7 +12,7 @@ export const company = {
 export const prices = {
   basic: [1500, 2000, 2500],
   pro: [3000, 3500, 4200],
-  vip: [4500, 5000, 5500],
+  vip: [5000, 6000, 7000],
 };
 
 // Phí khởi tạo một lần (CZK), theo số ngôn ngữ [1, 2, 3]
