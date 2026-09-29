@@ -1,6 +1,6 @@
 ---
 import { t } from '../i18n';
-import { prices, planKeys } from '../data/site';
+import { prices, setupFees, planKeys } from '../data/site';
 ---
 <section id="pricing" class="section">
   <div class="mx-auto max-w-2xl text-center">
@@ -29,6 +29,10 @@ import { prices, planKeys } from '../data/site';
             <span class="font-display text-4xl font-bold text-white" data-prices={JSON.stringify(prices[key])}>{prices[key][0]} Kč</span>
             <span class="text-sm" data-i18n="pricing.month">{t('pricing.month')}</span>
           </p>
+          <p class="mt-1 text-xs text-slate-500">
+            <span data-i18n="pricing.setup">{t('pricing.setup')}</span>:
+            <span class="font-medium text-slate-300" data-prices={JSON.stringify(setupFees[key])}>{setupFees[key][0]} Kč</span>
+          </p>
           <ul class="mt-6 flex-1 space-y-3 text-sm">
             {[0, 1, 2, 3].map((f) => (
               <li class="flex gap-3">
@@ -42,4 +46,6 @@ import { prices, planKeys } from '../data/site';
       );
     })}
   </div>
+
+  <p class="mt-8 text-center text-sm text-slate-400" data-i18n="pricing.customNote">{t('pricing.customNote')}</p>
 </section>
